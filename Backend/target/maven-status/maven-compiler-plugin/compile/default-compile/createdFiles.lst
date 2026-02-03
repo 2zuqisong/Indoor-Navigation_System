@@ -1,0 +1,6 @@
+com\navindoor\model\Node.class
+com\navindoor\NavIndoorApplication.class
+com\navindoor\algorithm\AStar.class
+com\navindoor\service\PathService.class
+com\navindoor\controller\PathController.class
+com\navindoor\model\Edge.class
